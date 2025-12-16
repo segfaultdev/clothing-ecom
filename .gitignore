@@ -40,4 +40,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+<<<<<<< HEAD
+=======
+# kiro
+.kiro
+
+>>>>>>> a7904dac11021fc66f0e191fcad2ba326b8491d5
 /src/generated/prisma
